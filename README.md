@@ -15,6 +15,7 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 
 
+
 # Some Major Insights
 1- There is a Huge gap between the actual performance and the target metrics for On-time Delivery (OT%), In-full Delivery (IF%), and On Time In Full (OTIF%) metrics. This indicates a need for improvement in operational efficiency and order fulfillment processes.
 2- Around 40% Orders are late delivered with Avg delay of 2 days they should identify the root cause of late delivery Atliq mart should focus on thier Delivery routes and where supplier making the mistakes.

@@ -14,8 +14,12 @@ Create the metrics according to the metrics list. Create a dashboard according t
 # Data model :
  <img width="644" alt="Image" src="https://github.com/user-attachments/assets/394b93d3-ce9d-4e43-8d65-949c1a45c8c4" />
 
+# Dashboard
+<img width="614" alt="Image" src="https://github.com/user-attachments/assets/a762bc3a-626a-456b-830e-a1910df6b568" />
 
+<img width="596" alt="Image" src="https://github.com/user-attachments/assets/c6515a7e-a664-4e61-a7be-7e63ef397de0" />
 
+<img width="624" alt="Image" src="https://github.com/user-attachments/assets/0c796b99-d96d-40c8-8170-458a75b5a01d" />
 # Some Major Insights
 1- There is a Huge gap between the actual performance and the target metrics for On-time Delivery (OT%), In-full Delivery (IF%), and On Time In Full (OTIF%) metrics. This indicates a need for improvement in operational efficiency and order fulfillment processes.
 2- Around 40% Orders are late delivered with Avg delay of 2 days they should identify the root cause of late delivery Atliq mart should focus on thier Delivery routes and where supplier making the mistakes.
